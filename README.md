@@ -49,16 +49,18 @@
 
 
 ### Realizando teste
-- Finalizando nosso teste abrindo o navegador e entrar com o endereço IP da nossa página fake da rede social.
+- Agora em outro equipamento na mesma rede, abrir o navegador e entrar com o endereço IP da nossa página fake da rede social.
 ![image](https://github.com/user-attachments/assets/912dd390-769f-48cd-bec6-ef3dfb5c584f)
 
-- Ao Abrir a página nosso servidor da página já mostra a saida de output informando que alguém acessou a página.
+- No nosso servidor da página já mostra a saida de output informando que alguém acessou a página.
 ![image](https://github.com/user-attachments/assets/e87ab270-6af3-4dd9-ac69-37399cfc3beb)
 
--Entrar com as credenciais e pressionar ENTER
+- Entrar com as credenciais e pressionar ENTER
+
 ![image](https://github.com/user-attachments/assets/644bf203-659b-46bb-90ef-8ffbed373e28)
 
+- Agora podemos visualizar a credencial capturado do usuário.
 
-- 
+![image](https://github.com/user-attachments/assets/7008120a-4356-4358-8b3f-f74a1cf3ff3e)
 
-![Alt text](./passwd.png "Optional title")
+Finalizamos nosso desafio phishing com sucesso.
