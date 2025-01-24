@@ -1,4 +1,4 @@
-# Phishing para captura de senhas em rede sociais fake
+# Phishing para capturar a credenciais de usuários em redes sociais fake
 
 ### Ferramentas
 
